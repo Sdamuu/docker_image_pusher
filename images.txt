@@ -2,3 +2,4 @@ nginx
 elasticsearch
 qdrant
 nvcr.io/nvidia/tritonserver
+nginx
