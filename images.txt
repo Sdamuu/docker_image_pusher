@@ -1,4 +1,5 @@
 nginx
-elasticsearch
-qdrant
+ollama/ollama
+qdrant/qdrant
+elasticsearch:8.15.0
 nvcr.io/nvidia/tritonserver
