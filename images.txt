@@ -1,5 +1,5 @@
-nginx
 ollama/ollama
 qdrant/qdrant
 elasticsearch:8.15.0
-nvcr.io/nvidia/tritonserver
+milvusdb/milvus:v2.4.5
+nvcr.io/nvidia/tritonserver:24.08-py3
