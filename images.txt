@@ -6,3 +6,4 @@ nvcr.io/nvidia/tritonserver:24.08-py3
 redis
 louislam/dockge:1
 n8nio/n8n:latest
+postgres:16
