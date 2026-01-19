@@ -5,3 +5,4 @@ milvusdb/milvus:v2.4.5
 nvcr.io/nvidia/tritonserver:24.08-py3
 redis
 louislam/dockge:1
+n8nio/n8n:latest
